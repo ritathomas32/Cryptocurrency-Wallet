@@ -31,7 +31,7 @@ Review the transaction hash code associated with the validated blockchain transa
 
 ![image](https://user-images.githubusercontent.com/108632632/210472847-f7431b26-0d7f-4bb7-889c-2754c47d0aae.png)
 
-<img width="1198" alt="Screenshot 2023-01-04 at 1 24 27 pm" src="https://user-images.githubusercontent.com/108632632/210473275-ad701e6e-924d-4e70-a847-7b599fa8213d.png">
+
 
 # Contributor
 
